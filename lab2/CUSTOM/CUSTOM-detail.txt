@@ -1,0 +1,36 @@
+Name: Harsimran Preet Singh
+
+"CSC 365-Winter 2022 LAB 2"
+
+----------------------------------------------------
+
+(a) Source of the data: 
+	-https://www.kaggle.com/shivamb/netflix-shows
+	- Created by "Shivam Bansal"
+	- The csv file had more than 8000 rows but for this assignment I chose to work with the first 50.
+(b) Brief Description:
+	-TABLE durations
+		-this table contains information about duration a movie/tv show and when was it added to Netflix (release date)
+		-title is used as primary key since no duplicate exists in the data
+		-title also becomes a foreign key that references to the title of the movie/tv show.
+	-TABLE names
+		-this table displays the id number of the show which is unique for every movie/tv show/
+		-since title is unique, it is used as a primary key as we get a unique identifier.
+		-this table contains the names of every movie/tv show along with its unique id and what that movie/tv show is rated (eg. R, PG-13).
+		-show_id also becomes a foreign key that references to the unique id of assigned to a movie/tv show.
+	-TABLE content
+		-contains information about each and every movie/tv show available on Netflix (but for the sake of the assignment dataset decreased to 50 movies/tv shows). The data consists of the show_id, title, date_added, rating, and duration. 
+		- show_id becomes a foreign key that references to the show_id of a movie/tv show.
+		- title becomes a foreign key that reference to the title of a specific movie/tv show.
+
+(c) Challenges:
+	-Since this is my first time learning MySQL in this class, dealing with keys (specifically foreign keys) was a challenge. Learning the core concepts of what are keys and why we use it was crucial in order to complete this lab. Main issue I ran into was setting up foreign key to a non primary key in a already created table (which is not the right way to implement foreign keys).
+
+(d) Three non-trivial information requests:
+	-to view a list of movies/tv shows
+		-select title from names;
+	-to view a list of movies with their duration;
+		-select * from durations;
+	-to view detailed information about movies/tv shows
+		-select * from content;
+ 

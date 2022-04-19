@@ -1,0 +1,51 @@
+﻿show_id,title,date_added,rating,duration
+s1,Dick Johnson Is Dead,"September 25, 2021",PG-13,90 min
+s2,Blood & Water,"September 24, 2021",TV-MA,2 Seasons
+s3,Ganglands,"September 24, 2021",TV-MA,1 Season
+s4,Jailbirds New Orleans,"September 24, 2021",TV-MA,1 Season
+s5,Kota Factory,"September 24, 2021",TV-MA,2 Seasons
+s6,Midnight Mass,"September 24, 2021",TV-MA,1 Season
+s7,My Little Pony: A New Generation,"September 24, 2021",PG,91 min
+s8,Sankofa,"September 24, 2021",TV-MA,125 min
+s9,The Great British Baking Show,"September 24, 2021",TV-14,9 Seasons
+s10,The Starling,"September 24, 2021",PG-13,104 min
+s11,"Vendetta: Truth, Lies and The Mafia","September 24, 2021",TV-MA,1 Season
+s12,Bangkok Breaking,"September 23, 2021",TV-MA,1 Season
+s13,Je Suis Karl,"September 23, 2021",TV-MA,127 min
+s14,Confessions of an Invisible Girl,"September 22, 2021",TV-PG,91 min
+s15,Crime Stories: India Detectives,"September 22, 2021",TV-MA,1 Season
+s16,Dear White People,"September 22, 2021",TV-MA,4 Seasons
+s17,Europe's Most Dangerous Man: Otto Skorzeny in Spain,"September 22, 2021",TV-MA,67 min
+s18,Falsa identidad,"September 22, 2021",TV-MA,2 Seasons
+s19,Intrusion,"September 22, 2021",TV-14,94 min
+s20,Jaguar,"September 22, 2021",TV-MA,1 Season
+s21,Monsters Inside: The 24 Faces of Billy Milligan,"September 22, 2021",TV-14,1 Season
+s22,Resurrection: Ertugrul,"September 22, 2021",TV-14,5 Seasons
+s23,Avvai Shanmughi,"September 21, 2021",TV-PG,161 min
+s24,Go! Go! Cory Carson: Chrissy Takes the Wheel,"September 21, 2021",TV-Y,61 min
+s25,Jeans,"September 21, 2021",TV-14,166 min
+s26,Love on the Spectrum,"September 21, 2021",TV-14,2 Seasons
+s27,Minsara Kanavu,"September 21, 2021",TV-PG,147 min
+s28,Grown Ups,"September 20, 2021",PG-13,103 min
+s29,Dark Skies,"September 19, 2021",PG-13,97 min
+s30,Paranoia,"September 19, 2021",PG-13,106 min
+s31,Ankahi Kahaniya,"September 17, 2021",TV-14,111 min
+s32,Chicago Party Aunt,"September 17, 2021",TV-MA,1 Season
+s33,Sex Education,"September 17, 2021",TV-MA,3 Seasons
+s34,Squid Game,"September 17, 2021",TV-MA,1 Season
+s35,Tayo and Little Wizards,"September 17, 2021",TV-Y7,1 Season
+s36,The Father Who Moves Mountains,"September 17, 2021",TV-MA,110 min
+s37,The Stronghold,"September 17, 2021",TV-MA,105 min
+s38,Angry Birds,"September 16, 2021",TV-Y7,1 Season
+s39,Birth of the Dragon,"September 16, 2021",PG-13,96 min
+s40,Chhota Bheem,"September 16, 2021",TV-Y7,3 Seasons
+s41,He-Man and the Masters of the Universe,"September 16, 2021",TV-Y7,1 Season
+s42,Jaws,"September 16, 2021",PG,124 min
+s43,Jaws 2,"September 16, 2021",PG,116 min
+s44,Jaws 3,"September 16, 2021",PG,98 min
+s45,Jaws: The Revenge,"September 16, 2021",PG-13,91 min
+s46,My Heroes Were Cowboys,"September 16, 2021",PG,23 min
+s47,Safe House,"September 16, 2021",R,115 min
+s48,The Smart Money Woman,"September 16, 2021",TV-MA,1 Season
+s49,Training Day,"September 16, 2021",R,122 min
+s50,Castle and Castle,"September 15, 2021",TV-MA,2 Seasons

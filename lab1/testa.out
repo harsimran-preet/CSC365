@@ -1,0 +1,14 @@
+Welcome
+
+S[tudent]: <lastname> [B[us]]
+T[eacher]: <lastname>
+B[us]: <number>
+G[rade]: <number> [H[igh]|L[ow]]
+A[verage]: <number>
+I[nfo]
+Q[uit]
+
+
+   StLastName StFirstName  Grade  Classroom  Bus   GPA TLastName TFirstName
+19      HAVIR      BOBBIE      2        108    0  2.88     HAMER      GAVIN
+

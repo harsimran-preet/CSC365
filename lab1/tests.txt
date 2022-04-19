@@ -1,0 +1,13 @@
+echo " CSC 365 "
+echo " Lab 1-a test suite "
+echo " TC-1 "
+echo " Tests Requirements R3, R4 "
+echo " short form command name, existing student "
+echo " expected output a: StLastName StFirstName  Grade  Classroom  Bus   GPA TLastName TFirstName " 
+echo " 19      HAVIR      BOBBIE      2        108    0  2.88     HAMER      GAVIN "
+echo " expected output b: (empty string) " 
+echo " Input= S: HAVIR "
+python3 schoolsearch.py < testa.in > mytesta.out
+python3 schoolsearch.py < testb.in > mytestb.out
+echo " Actual: find mytesta.out "
+echo " Expected: find testa.out " 
